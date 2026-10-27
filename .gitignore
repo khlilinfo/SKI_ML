@@ -1,0 +1,9 @@
+# Unzipped dataset and numpy caches (too big for GitHub)
+/data/
+*.npy
+
+# Generated predictions
+submission*.csv
+
+# Python bytecode
+__pycache__/
