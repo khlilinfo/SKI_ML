@@ -6,7 +6,7 @@ from helpers import create_csv_submission, load_csv_data
 from implementations import reg_logistic_regression, sigmoid
 
 DATA_PATH = "data/dataset"
-MAX_NAN_RATIO = 1.0 
+MAX_NAN_RATIO = 1.0
 LAMBDA = 1e-4
 GAMMA = 0.5
 MAX_ITERS = 300
